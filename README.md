@@ -17,3 +17,8 @@ Requires MeshCentral to be configured with the following options: (maybe not nig
   }
 },
 ```
+NOTE: 
+
+tutorial: https://gemini.google.com/share/78ab4a7609c0
+
+THEME: https://www.reddit.com/r/MeshCentral/comments/104en4h/custom_ui_redesign/
